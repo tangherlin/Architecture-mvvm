@@ -1,0 +1,32 @@
+[
+  {
+    "productId": "1",
+    "name": "Pixel bud",
+    "price": "299.99"
+  },
+  {
+    "productId": "2",
+    "name": "Montre Pixel",
+    "price": "449.99"
+  },
+  {
+    "productId": "3",
+    "name": "Telephone Pixel",
+    "price": "849.99"
+  },
+  {
+    "productId": "Montre Apple",
+    "name": "4",
+    "price": null
+  },
+  {
+    "productId": "5",
+    "name": "Iphone 14",
+    "price": "1299.99"
+  },
+  {
+    "productId": "6",
+    "name": "Ipad Air",
+    "price": "899.99"
+  }
+]
